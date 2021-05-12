@@ -1,0 +1,18 @@
+{
+"data":
+
+  [
+    {"id": 1, "title": "Детские тапочки", "factory": "Bereginya", "price": 100,
+      "coverImage": "https://beregynya.com.ua/image/cache/catalog/b_logo-400x100.png"
+    },
+    {"id": 2, "title": "Детские тапочки", "factory": "Чап-чап", "price": 50,
+      "coverImage": "https://images.ua.prom.st/1544647869_w270_h100_tov-chap-chap.jpg"
+    },
+    {"id": 3, "title": "shlepanki", "factory": "Chap", "price": 90,
+      "coverImage": "https://images.ua.prom.st/2997023160_zhinochi-tapochki-tango.jpg"                 
+    },
+    {"id": 4, "title": "shlepanki", "factory": "Chap", "price": 95,
+      "coverImage":  "https://beregynya.com.ua/image/cache/catalog/tapki/0504-1-550x550.jpg"               
+    }
+  ]
+}

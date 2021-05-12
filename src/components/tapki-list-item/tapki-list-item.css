@@ -1,0 +1,28 @@
+.tapki-list-item {
+  display: flex;
+  margin: 15px 0;
+}
+.tapki-list-item .tapki-cover {
+  flex-shrink: 0;
+    width: 120px;
+  margin-right: 30px;
+}
+
+.tapki-list-item .tapki-cover img {
+  max-width: 100%;
+}
+
+.tapki-list-item .tapki-details {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding-bottom: 10px;
+  align-items: flex-start;
+}
+
+.tapki-list-item .tapki-details .tapki-title {
+  font-size: 1.2rem;
+}
+.tapki-list-item .tapki-details .tapki-price {
+  font-size: 1.4rem;
+}
